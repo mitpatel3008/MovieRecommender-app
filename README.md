@@ -2,7 +2,7 @@
 This project is a content-based movie recommender system that suggests movies similar to a user’s favorite film by analyzing metadata—including genres, cast, and crew. It uses natural language processing (NLP) and machine learning techniques to deliver relevant recommendations.
 
 ## 🌐 Live App
-Try the Movie Recommender System here!
+https://lnkd.in/gNh73p4r
 
 ## 🚀 Features
 
