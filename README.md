@@ -6,7 +6,7 @@ This project is a content-based movie recommender system that suggests movies si
 
 ## 🌐 Live App
 
-Try the Movie Recommender System here!
+https://movierecommender-sys.streamlit.app
 
 ⸻
 
