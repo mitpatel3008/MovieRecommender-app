@@ -4,6 +4,11 @@ This project is a **content-based movie recommender system** that suggests movie
 
 ---
 
+##🌐 Live App
+https://movierecommender-sys.streamlit.app/
+
+---
+
 ## 🚀 Features
 - Recommends the **top 5 most similar movies** to any selected title.
 - Uses **Count Vectorizer** and **Cosine Similarity** for text-based similarity scoring.
