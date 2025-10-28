@@ -1,10 +1,10 @@
-🎬 Movie Recommender System (Content-Based)
+## 🎬 Movie Recommender System (Content-Based)
 This project is a content-based movie recommender system that suggests movies similar to a user’s favorite film by analyzing metadata—including genres, cast, and crew. It uses natural language processing (NLP) and machine learning techniques to deliver relevant recommendations.
 
-🌐 Live App
+## 🌐 Live App
 Try the Movie Recommender System here!
 
-🚀 Features
+## 🚀 Features
 
 Recommends the top 5 most similar movies to any selected title
 
@@ -14,7 +14,7 @@ Processes and merges data from multiple sources (movies.csv, credits.csv)
 
 Includes a Flask web interface for user-friendly interaction
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 
 Programming Language: Python
 
@@ -24,7 +24,7 @@ Framework: Flask
 
 Tools: Jupyter Notebook, VS Code
 
-🧩 How It Works
+## 🧩 How It Works
 
 Loads and merges movie datasets (movies.csv, credits.csv)
 
