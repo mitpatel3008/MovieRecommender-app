@@ -4,7 +4,7 @@ This project is a **content-based movie recommender system** that suggests movie
 
 ---
 
-##🌐 Live App
+## 🌐 Live App
 https://movierecommender-sys.streamlit.app/
 
 ---
