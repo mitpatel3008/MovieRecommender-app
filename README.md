@@ -250,8 +250,6 @@ Then pick a movie and click **Recommend**.
 ## 👤 Author
 
 **Mit Patel**
-GitHub: [@mitpatelcs](https://github.com/mitpatelcs)
-
 ---
 
 ## 📄 License
