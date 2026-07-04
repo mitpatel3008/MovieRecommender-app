@@ -209,20 +209,6 @@ Then pick a movie and click **Recommend**.
 
 ---
 
-## 🖼️ Screenshots
-
-> _Placeholders — add your own screenshots under an `images/` folder._
-
-**Home Page**
-
-![Home Page](images/home.png)
-
-**Recommendations**
-
-![Recommendations](images/recommendations.png)
-
----
-
 ## 🛠️ Tech Stack
 
 | Category | Tools |
